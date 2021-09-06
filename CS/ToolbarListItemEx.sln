@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolbarListItemEx", "ToolbarListItemEx\ToolbarListItemEx.csproj", "{3F795D3E-166B-466F-8163-A7D126645A1B}"
 EndProject
 Global

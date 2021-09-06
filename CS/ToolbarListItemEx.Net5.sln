@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ToolbarListItemEx", "ToolbarListItemEx\ToolbarListItemEx.vbproj", "{3F795D3E-166B-466F-8163-A7D126645A1B}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolbarListItemEx", "ToolbarListItemEx\ToolbarListItemEx.Net5.csproj", "{3F795D3E-166B-466F-8163-A7D126645A1B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
